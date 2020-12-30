@@ -1,3 +1,15 @@
+---
+layout: archive
+title: ""
+permalink: /papers/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 1.  **H. Abdallah**, A. Regalski, M. Kang, M. Berishaj, N. Nandi, A.
     Chowdury, R. Suryadevara, V. Diwadkar, A. Salch. *Statistical
     Inference for Persistent Homology applied to fMRI.* In Preparation.
