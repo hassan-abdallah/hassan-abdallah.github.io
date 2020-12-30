@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is [here](/files/abdallah_cv_1220)
+My CV is [here](https://github.com/hassan-abdallah/hassan-abdallah.github.io/raw/master/files/abdallah_cv_1220.pdf)
